@@ -95,3 +95,25 @@
 	    "url": "https://nu.community/f550dd88-d201-11eb-a376-b2dcb76f8e11"
 	  }
 	]
+
+# Errors
+
+## 400
+### Response
+	// 20220419232909
+	// https://api.nu.community/v1/
+
+	{
+	  "response_code": 400,
+	  "response_desc": "Invalid request"
+	}
+
+## 404
+### Response
+	// 20220419232909
+	// https://api.nu.community/v1/
+
+	{
+	  "response_code": 404,
+	  "response_desc": "No results found."
+	}

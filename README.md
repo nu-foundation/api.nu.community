@@ -108,6 +108,53 @@
 	  "response_desc": "Invalid request"
 	}
 
+## 400 - Country
+### Response
+	// 20220419232909
+	// https://api.nu.community/v1/
+
+	{
+	  "response_code": 400,
+	  "response_desc": "The country you enetered is not supported, yet!"
+	}
+
+## 400 - Distance
+### Response
+	// 20220419232909
+	// https://api.nu.community/v1/
+
+	{
+	  "response_code": 400,
+	  "response_desc": "Distance cannot be greater than 321,869 meters."
+	}
+
+## 400 - Limit
+### Response
+	// 20220419232909
+	// https://api.nu.community/v1/
+
+	{
+	  "response_code": 400,
+	  "response_desc": "Limit cannot be greater than 100."
+	}
+### Response
+	// 20220419232909
+	// https://api.nu.community/v1/
+
+	{
+	  "response_code": 400,
+	  "response_desc": "Limit must be an whole number."
+	}
+
+## 400 - Units
+	// 20220419232909
+	// https://api.nu.community/v1/
+
+	{
+	  "response_code": 400,
+	  "response_desc": "Unit must be either miles or kilometers."
+	}
+
 ## 404
 ### Response
 	// 20220419232909

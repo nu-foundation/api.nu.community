@@ -5,7 +5,7 @@
 
     https://api.nu.community/v1/
 
-## General Query URL:
+## General Query URL
 
      https://api.nu.community/v1/?query=California
 
@@ -20,11 +20,11 @@
 ## Coordinates Query URL
      https://api.nu.community/v1/coordinates/?latitude=37.804363&longitude=-122.271111&limit=10&unit=kilometers
 ### Attributes
-#### latitude 
+#### Latitude 
 - 37.804363
-#### longitude
+#### Longitude
 - -122.271111
-#### limit
+#### Limit
 - Limit the number of results. 
-#### unit
+#### Unit
 - Miles or Kilometers

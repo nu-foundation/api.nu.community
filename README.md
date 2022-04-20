@@ -17,6 +17,38 @@
 #### Limit (int)
 - Limit the number of results. 
 
+### Example Response
+
+	// 20220419230315
+	// https://api.nu.community/v1/?query=California
+
+	[
+	  {
+	    "id": "f5520892-d201-11eb-a376-b2dcb76f8e11",
+	    "name": "Peace Lutheran Church",
+	    "address_1": "885 Pomeroy Avenue",
+	    "address_2": null,
+	    "state": "California",
+	    "city": "Santa Clara",
+	    "zipcode": "95051",
+	    "country": "US",
+	    "website": "http://www.peaceaustin.org/",
+	    "url": "https://nu.community/f5520892-d201-11eb-a376-b2dcb76f8e11"
+	  },
+	  {
+	    "id": "f55207d7-d201-11eb-a376-b2dcb76f8e11",
+	    "name": "Peace Lutheran Church",
+	    "address_1": "885 Pomeroy Avenue",
+	    "address_2": null,
+	    "state": "California",
+	    "city": "Santa Clara",
+	    "zipcode": "95051",
+	    "country": "US",
+	    "website": "http://peacejourney.org/",
+	    "url": "https://nu.community/f55207d7-d201-11eb-a376-b2dcb76f8e11"
+	  }
+	]
+
 ## Coordinates Query URL
      https://api.nu.community/v1/coordinates/?latitude=37.804363&longitude=-122.271111&limit=10&unit=kilometers
 ### Attributes

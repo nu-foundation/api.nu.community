@@ -15,8 +15,8 @@
  - State or Province - California or Alberta
  - Postal Code - 94612
 #### Limit (int)
-- Limit the number of results. 
-
+- Limit the number of results 0-100
+- Default 25
 ### Example Response
 
 	// 20220419230315
@@ -57,7 +57,8 @@
 #### Longitude
 - -122.271111
 #### Limit
-- Limit the number of results. 
+- Limit the number of results 0-100
+- Default 25
 #### Unit
 - Miles or Kilometers
 

@@ -63,8 +63,8 @@
 
 ### Example Response
 
-	// 20220419230602
-	// https://api.nu.community/v1/coordinates/?latitude=37.804363&longitude=-122.271111&limit=2
+	// 20220419230658
+	// https://api.nu.community/v1/coordinates/?latitude=37.804363&longitude=-122.271111&limit=2&unit=miles
 
 	[
 	  {

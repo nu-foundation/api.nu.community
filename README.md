@@ -44,6 +44,8 @@
 	    "city": "Santa Clara",
 	    "zipcode": "95051",
 	    "country": "US",
+	    "lat": "37.341087",
+	    "lng": "-121.987236",
 	    "website": "http://peacejourney.org/",
 	    "url": "https://nu.community/f55207d7-d201-11eb-a376-b2dcb76f8e11"
 	  }
@@ -77,6 +79,8 @@
 	    "city": "Oakland",
 	    "zipcode": "94612",
 	    "country": "US",
+	    "lat": "37.805489",
+	    "lng": "-122.267075",
 	    "distance": 0.41,
 	    "website": "http://www.oaklifechurch.com",
 	    "url": "https://nu.community/f5523df0-d201-11eb-a376-b2dcb76f8e11"
@@ -90,6 +94,8 @@
 	    "city": "Oakland",
 	    "zipcode": "94610",
 	    "country": "US",
+	    "lat": "37.811073",
+	    "lng": "-122.260185",
 	    "distance": 0.93,
 	    "website": "http://www.stpaulsoakland.org/",
 	    "url": "https://nu.community/f550dd88-d201-11eb-a376-b2dcb76f8e11"

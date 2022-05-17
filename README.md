@@ -32,22 +32,10 @@
 	    "city": "Santa Clara",
 	    "zipcode": "95051",
 	    "country": "US",
-	    "website": "http://www.peaceaustin.org/",
-	    "url": "https://nu.community/f5520892-d201-11eb-a376-b2dcb76f8e11"
-	  },
-	  {
-	    "id": "f55207d7-d201-11eb-a376-b2dcb76f8e11",
-	    "name": "Peace Lutheran Church",
-	    "address_1": "885 Pomeroy Avenue",
-	    "address_2": null,
-	    "state": "California",
-	    "city": "Santa Clara",
-	    "zipcode": "95051",
-	    "country": "US",
 	    "lat": "37.341087",
 	    "lng": "-121.987236",
-	    "website": "http://peacejourney.org/",
-	    "url": "https://nu.community/f55207d7-d201-11eb-a376-b2dcb76f8e11"
+	    "website": "http://www.peaceaustin.org/",
+	    "url": "https://nu.community/f5520892-d201-11eb-a376-b2dcb76f8e11"
 	  }
 	]
 

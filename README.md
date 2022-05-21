@@ -5,6 +5,22 @@
 
     https://api.nu.community/v1/
 
+## Active Countries
+
+	https://api.nu.community/v1/countries/
+
+### Example Response
+
+	// 20220521222810
+	// https://api.nu.community/v1/countries/
+
+	[
+	  "US",
+	  "CA",
+	  "GB",
+	  "AU"
+	]
+
 ## General Query URL
 
      https://api.nu.community/v1/?query=California

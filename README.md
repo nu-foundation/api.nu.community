@@ -40,7 +40,7 @@
 
 	[
 	  {
-	    "id": "f5520892-d201-11eb-a376-b2dcb76f8e11",
+	    "id": "5xtqq3zbjelyh76w",
 	    "name": "Peace Lutheran Church",
 	    "address_1": "885 Pomeroy Avenue",
 	    "address_2": null,
@@ -51,7 +51,7 @@
 	    "lat": "37.341087",
 	    "lng": "-121.987236",
 	    "website": "http://www.peaceaustin.org/",
-	    "url": "https://nu.community/f5520892-d201-11eb-a376-b2dcb76f8e11"
+	    "url": "https://nu.community/profile/5xtqq3zbjelyh76w"
 	  }
 	]
 
@@ -74,7 +74,7 @@
 
 	[
 	  {
-	    "id": "f5520892-d201-11eb-a376-b2dcb76f8e11",
+	    "id": "5xtqq3zbjelyh76w",
 	    "name": "Peace Lutheran Church",
 	    "address_1": "885 Pomeroy Avenue",
 	    "address_2": null,
@@ -85,7 +85,7 @@
 	    "lat": "37.341087",
 	    "lng": "-121.987236",
 	    "website": "http://www.peaceaustin.org/",
-	    "url": "https://nu.community/f5520892-d201-11eb-a376-b2dcb76f8e11"
+	    "url": "https://nu.community/profile/5xtqq3zbjelyh76w"
 	  }
 	]
 
@@ -108,7 +108,7 @@
 
 	[
 	  {
-	    "id": "f5520892-d201-11eb-a376-b2dcb76f8e11",
+	    "id": "5xtqq3zbjelyh76w",
 	    "name": "Peace Lutheran Church",
 	    "address_1": "885 Pomeroy Avenue",
 	    "address_2": null,
@@ -119,7 +119,7 @@
 	    "lat": "37.341087",
 	    "lng": "-121.987236",
 	    "website": "http://www.peaceaustin.org/",
-	    "url": "https://nu.community/f5520892-d201-11eb-a376-b2dcb76f8e11"
+	    "url": "https://nu.community/profile/5xtqq3zbjelyh76w"
 	  }
 	]
 
@@ -145,7 +145,7 @@
 
 	[
 	  {
-	    "id": "f5523df0-d201-11eb-a376-b2dcb76f8e11",
+	    "id": "q2tcomxo2yv42taj",
 	    "name": "Oak Life Church",
 	    "address_1": "337 17th Street",
 	    "address_2": null,
@@ -157,10 +157,10 @@
 	    "lng": "-122.267075",
 	    "distance": 0.41,
 	    "website": "http://www.oaklifechurch.com",
-	    "url": "https://nu.community/f5523df0-d201-11eb-a376-b2dcb76f8e11"
+	    "url": "https://nu.community/profile/q2tcomxo2yv42taj"
 	  },
 	  {
-	    "id": "f550dd88-d201-11eb-a376-b2dcb76f8e11",
+	    "id": "tlaeqwniqvnhffbm",
 	    "name": "St. Paul's Episcopal Church Oakland",
 	    "address_1": "114 Montecito Avenue",
 	    "address_2": null,
@@ -172,7 +172,7 @@
 	    "lng": "-122.260185",
 	    "distance": 0.93,
 	    "website": "http://www.stpaulsoakland.org/",
-	    "url": "https://nu.community/f550dd88-d201-11eb-a376-b2dcb76f8e11"
+	    "url": "https://nu.community/profile/tlaeqwniqvnhffbm"
 	  }
 	]
 

@@ -1,5 +1,5 @@
 
-# The Nu Community API Docs
+# The nu.community API Docs
 
 ## Base URL
 
